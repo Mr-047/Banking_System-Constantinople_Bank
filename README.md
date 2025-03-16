@@ -1,2 +1,17 @@
-# Banking_System-Constantinople_Bank
-A fictional banking system for Constantinople Bank, built with a focus on security, performance, and ease of use.
+# Banking System in Python
+
+## Description
+A console-based banking system themed around the historic city of Constantinople, allowing citizens to create accounts, perform transactions, and manage finances.
+
+## Features
+- Account Creation
+- Citizen Login
+- Deposits/Withdrawals  
+- Persistent Data Storage (File Handling)
+
+## Dependencies
+- Python 3.x
+
+## How to Run
+```bash
+python banking_system.py
